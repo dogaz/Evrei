@@ -2,315 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80518684-47ac-4bdd-aacc-7ae38104fcce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/assets/images/slider3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.674f50d287a8c48dc19b.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.b06871f281fee6b241d6.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.fee66e712a8a08eef580.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/slider3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/belui2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/0.3164aaaa1a7a9aa32bf3.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/1.d4bb299b311c34c64146.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/10.18bb87e005301f76d8b1.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/11.d738f136ece16f98017d.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/2.d96689ba80c67a3957b9.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/3.58bbe297a82e1b058b6b.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/4.4e321f55c35030a946df.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/5.3a747c373c87a6754bb7.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/6.86f884758887dd0de424.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/7.12202f388044d17cf245.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/8.0b1d48cdf03bbeedf440.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/9.b29e0a426ddf2498c583.chunk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.912ec66d7572ff821749.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/inline.5ddd752db3969924f623.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/main.5e9ea47c2b36e0fb7edf.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/polyfills.d73fb36f511b1a558424.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/scripts.603651d087b10eb18480.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/styles.14073ca88372809ef86b.bundle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/vendor.0ef6bebf938528cb25d3.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/blank-page/blank-page.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/bs-component.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/alert/alert.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/alert/alert.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/alert/alert.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/alert/alert.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/buttons/buttons.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/buttons/buttons.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/buttons/buttons.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/buttons/buttons.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/collapse/collapse.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/collapse/collapse.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/collapse/collapse.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/collapse/collapse.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/date-picker/date-picker.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/date-picker/date-picker.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/date-picker/date-picker.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/date-picker/date-picker.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/dropdown/dropdown.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/dropdown/dropdown.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/dropdown/dropdown.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/dropdown/dropdown.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/modal/modal.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/modal/modal.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/modal/modal.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/modal/modal.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pagination/pagination.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pagination/pagination.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pagination/pagination.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pagination/pagination.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pop-over/pop-over.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pop-over/pop-over.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pop-over/pop-over.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/pop-over/pop-over.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/progressbar/progressbar.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/progressbar/progressbar.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/progressbar/progressbar.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/progressbar/progressbar.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tabs/tabs.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tabs/tabs.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tabs/tabs.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tabs/tabs.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/timepicker/timepicker.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/timepicker/timepicker.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/timepicker/timepicker.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/timepicker/timepicker.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tooltip/tooltip.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tooltip/tooltip.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tooltip/tooltip.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-component/components/tooltip/tooltip.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/bs-element/bs-element.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/charts/charts.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/chat/chat.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/chat/chat.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/chat/chat.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/chat/chat.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/notification/notification.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/notification/notification.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/notification/notification.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/notification/notification.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/timeline/timeline.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/timeline/timeline.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/timeline/timeline.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/components/timeline/timeline.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/dashboard/dashboard.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/form/form.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/grid/grid.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/layout.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/layout/tables/tables.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/login/login.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/not-found/not-found-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/not-found/not-found.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/not-found/not-found.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/header/header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/header/header.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/header/header.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/header/header.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/sidebar/sidebar.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/sidebar/sidebar.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/sidebar/sidebar.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/components/sidebar/sidebar.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/page-header/page-header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/page-header/page-header.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/page-header/page-header.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/page-header/page-header.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/page-header/page-header.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/stat/stat.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/stat/stat.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/stat/stat.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/stat/stat.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/modules/stat/stat.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/pipes/shared-pipes.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/shared/services/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/signup/signup.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/_responsive.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/_rtl.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/_spinner.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/_utils.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_custom-forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_input-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_popover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_responsive-embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/bootstrap-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/bootstrap-reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_breakpoints.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_hover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_navbar-align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_reset-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_text-hide.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_text-truncate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_transforms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/mixins/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_borders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_display.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_screenreaders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/bootstrap/utilities/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tslint.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/belui2.iml" afterPath="$PROJECT_DIR$/.idea/belui2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="belui2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -331,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="260">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -349,8 +44,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.idea/belui2.iml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -363,7 +59,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -419,9 +115,60 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Saits\Node.js\node.exe" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -441,29 +188,40 @@
       <workItem from="1492881870853" duration="894000" />
       <workItem from="1492882784014" duration="234000" />
       <workItem from="1492883033433" duration="640000" />
-      <workItem from="1492883687925" duration="895000" />
+      <workItem from="1492883687925" duration="10028000" />
+      <workItem from="1493044402117" duration="1828000" />
+      <workItem from="1493046575324" duration="88000" />
+      <workItem from="1493046704892" duration="1174000" />
     </task>
+    <task id="LOCAL-00001" summary="qq">
+      <created>1492955509196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492955509196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2663000" />
+    <option name="totallyTimeSpent" value="14886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3532423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25255972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -493,11 +251,168 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -507,14 +422,222 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="18" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-766">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/0.3164aaaa1a7a9aa32bf3.chunk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/app.e2e-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/tsconfig.e2e.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/app.po.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tsconfig.spec.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tsconfig.app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
