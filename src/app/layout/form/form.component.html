@@ -1,2 +1,61 @@
 <app-page-header [heading]="'Создать'" [icon]="'fa-edit'"></app-page-header>
 
+<form action="#" id='send' method='POST'>
+
+    <label>Имя</label>
+    <input type='text' name='name' placeholder='Имя' required><span></span>
+    <br>
+    <label>Фамилия</label>
+    <input type='text' name='surname' placeholder='Фамилия' required><span></span>
+    <br>
+    <label>Отчество</label>
+    <input type='text' name='middle_name' placeholder='Отчество'><span></span>
+    <br>
+    <label>Адрес</label>
+    <input type='text' name='address' placeholder='Адрес'><span></span>
+    <br>
+    <label>Телефон</label>
+    <input type='text' name='tel' placeholder='Телефон'><span></span>
+    <br>
+    <label>Эл. почта</label>
+    <input type='email' name='email' placeholder='Эл. почта'><span></span>
+    <br>
+    <label>Страна проживания</label>
+    <input type='text' name='country' placeholder='Страна проживания'><span></span>
+    <br>
+    <label>Дата рождения</label>
+    <input type='text' name='birthday' placeholder='Дата рождения' ><span></span>
+    <br>
+    <label>Страница соц. сети</label>
+    <input type='text' name='network' placeholder='Страница соц. сети'><span></span>
+    <br>
+    <label>Брат/сестра</label>
+    <input type='text' name='sister' placeholder='Брат/сестра'><span></span>
+    <br>
+    <label>Родители</label>
+    <input type='text' name='parents' placeholder='Родители'><span></span>
+    <br>
+    <label>Дети</label>
+    <input type='text' name='child' placeholder='Дети'><span></span>
+    <br>
+    <label>Примечания</label>
+    <input type='text' name='note' placeholder='Примечания'><span></span>
+    <br>
+
+    <label>Программы:</label>
+    <br>
+    <input type="checkbox" value="yes" name="ktonanovenkogoru3">
+    Алаха <br>
+    <input type="checkbox" value="yes" name="ktonanovenkogoru4">
+    Таглит <br>
+    <input type="checkbox" value="yes" name="ktonanovenkogoru5">
+    Маса <br>
+    <input type="checkbox" value="yes" name="ktonanovenkogoru6">
+    Тхелет <br>
+    <input type="checkbox" value="yes" name="ktonanovenkogoru7">
+    Старс
+
+</form>
+<div class="sum">
+    <input type="submit" value="Создать" form='send'>
+</div>
